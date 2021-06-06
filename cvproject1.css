@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: bisque;
+    font-family: 'Roboto', sans-serif;
+}
+.hasan{
+    max-width: 1000px;
+    background-color: darkgrey;
+    margin: 0 auto;
+    padding: 40px;
+}
+.profile{
+    width: 80px;
+    height: 80px;
+    border: 3px solid white;
+    border-radius: 50;
+    float: left;
+}
+.bio{
+    color:blueviolet;
+    float:left;
+    padding: 30px;
+}
+.contact{
+    float: right;
+}
+.contact a{
+    text-decoration:none ;
+    font-weight: bold;
+    color: darkslateblue;
+}
+.contact a :hover{
+    text-decoration: underline;
+
+    color: rgb(141, 17, 17);
+}
+#n{
+    color: rgb(52, 82, 50);  
+}
+.div-clear{
+
+    clear: both;
+}
+hr{
+    border: solid black 2px;
+}
+.left-div{
+    padding: 15px  0px;
+    color: brown;
+    float: left;
+    width: 30%;
+
+}
+.right-div{
+    float: right;
+    color: crimson;
+    width: 70%;
+    padding: 15px 0px;
+    
+}
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    margin: 0 auto;
+    width: 100%;
+}
+.table{
+    text-align: center;
+    color: brown;
+    padding: 5px 0px;
+    
+}
+.fot{
+    background-color:black;
+    text-align: center;
+    padding: 10px;
+}
+.fot a{
+    color: darkcyan;
+    text-decoration: none;
+    margin: 20px;
+}
+.fot p{
+    color: darkgray;
+    margin-top: 20px;
+}
